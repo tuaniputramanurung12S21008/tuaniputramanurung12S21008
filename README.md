@@ -1,4 +1,6 @@
-##	*Hello, welcome 👋*
+##	*Hello, welcome I'M👋*
+
+![Tuani Putra](img/github-header-image.png)  
 
 <!--
 **tuaniputramanurung12S21008/tuaniputramanurung12S21008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +24,6 @@ Here are some ideas to get you started:
 - 🌱 Currently, I am excited to learn and develop my skills in order to become someone who understands **data analysis**
 
 
-![Semangat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1mNDdlYWhoYW4zbWljNXUwajVydnJsbDdhdWpzMDU4anEzaXByNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cge9nG7e7wKWbMm9cY/giphy.gif)
+    ![Semangat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1mNDdlYWhoYW4zbWljNXUwajVydnJsbDdhdWpzMDU4anEzaXByNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cge9nG7e7wKWbMm9cY/giphy.gif)
 
 
