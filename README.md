@@ -46,3 +46,13 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tuaniputramanurung12S21008/tuaniputramanurung12S21008/output/pacman-contribution-graph.svg">
 </picture>
 
+
+<h1 align="center">Hi there! 👋 I'm a Sudoku Fan</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Sudoku-blue?logo=github" />
+</p>
+
+### 🧩 Here's a mini Sudoku board!
+
+
