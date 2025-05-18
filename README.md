@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 
 
-🔭 I am a student at **Del Institute of Technology**
-🌱 Currently, I am excited to learn and develop my skills in order to become someone who understands **data analysis**
+- 🔭 I am a student at **Del Institute of Technology**
+
+- 🌱 Currently, I am excited to learn and develop my skills in order to become someone who understands **data analysis**
 
 
 ![Semangat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1mNDdlYWhoYW4zbWljNXUwajVydnJsbDdhdWpzMDU4anEzaXByNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cge9nG7e7wKWbMm9cY/giphy.gif)
